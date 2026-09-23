@@ -10,7 +10,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 int main()
 {
-    std::cout<<"Hello World\n";
+    std::cout<<"Sum of 2 Numbers\n";
     int num1= 90;
     int num2= 60;
     int sum= num1+num2;
